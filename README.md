@@ -94,5 +94,9 @@ Kerbl et al., ACM Transactions on Graphics 2023
 
 Usefull software tools and code implementation to work with NeRFs and 3DGS.
 
-
+- **viser** [github](https://github.com/nerfstudio-project/viser)  | [docs](https://viser.studio/main/) <br/>
+  3D visualization library for computer vision and robotics in Python.
+  
+- **nerfstudio** [github](https://github.com/nerfstudio-project/nerfstudio) | [docs](https://docs.nerf.studio/)  <br/>
+  Ready to use API to work with NeRFs and 3DGS  
 
