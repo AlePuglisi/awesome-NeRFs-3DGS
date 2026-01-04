@@ -31,12 +31,10 @@ Mildenhall et al., ECCV 2020
   
   - [SeaThru-NeRF: Neural Radiance Fields in Scattering Media](https://sea-thru-nerf.github.io) <br/>
       Deborah Levy et al., CVPR 2023
-
-</details>
-  
-<details open>
-<summary>Vanilla NeRFs</summary>
-  
+    
+  - [AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion](https://aoneus.github.io/) <br/>
+     Mohamad Qadri et al., SIGGRAPH 2024
+    
 </details>
 
 <details open>
@@ -80,12 +78,10 @@ Kerbl et al., ACM Transactions on Graphics 2023
 
   - [Aqua-Splat: Physically-Informed Sonar-Camera Gaussian Splatting for Underwater 3D Reconstruction](https://ieeexplore.ieee.org/document/11184160) <br/>
     Zijie Ling et al., IEEE Robotics and Automation Letters 2025
-    
-</details>
 
-<details open>
-<summary>Vanilla 3DGS</summary>
-  
+  - [Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion](https://arxiv.org/abs/2404.04687) | [github](https://github.com/QuintonQu/gaussian-splatting-with-depth/tree/gaussian-splatting-with-depth-FLS-2) <br/>
+      Ziyuan Qu et al., arXiv
+    
 </details>
 
 <details open>
