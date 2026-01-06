@@ -28,12 +28,15 @@ Mildenhall et al., ECCV 2020
 
 <details open>
 <summary>Underwater NeRFs</summary>
-  
-  - [SeaThru-NeRF: Neural Radiance Fields in Scattering Media](https://sea-thru-nerf.github.io) <br/>
-      Deborah Levy et al., CVPR 2023
+
+  - [AquaNeRF: Neural Radiance Fields in Underwater Media with Distractor Removal](https://arxiv.org/abs/2502.16351) <br/>
+    Luca Gough et al., arxiv Feb. 2025
     
   - [AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion](https://aoneus.github.io/) <br/>
-     Mohamad Qadri et al., SIGGRAPH 2024
+     Mohamad Qadri et al., SIGGRAPH Aug. 2024
+
+  - [SeaThru-NeRF: Neural Radiance Fields in Scattering Media](https://sea-thru-nerf.github.io) <br/>
+      Deborah Levy et al., CVPR Apr. 2023
     
 </details>
 
@@ -73,14 +76,26 @@ Kerbl et al., ACM Transactions on Graphics 2023
 <details open>
 <summary>Underwater 3DGS</summary>
 
-  - [WaterSplatting Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting](https://water-splatting.github.io) <br/>
-     Huapeng Li et al., 3DV 2025
+  - [SonarSplat: Novel View Synthesis of Imaging Sonar via Gaussian Splatting](https://umfieldrobotics.github.io/sonarsplat3D/) <br/>
+    Advaith V. Sethuraman et al., arxiv Nov. 2025
 
   - [Aqua-Splat: Physically-Informed Sonar-Camera Gaussian Splatting for Underwater 3D Reconstruction](https://ieeexplore.ieee.org/document/11184160) <br/>
-    Zijie Ling et al., IEEE Robotics and Automation Letters 2025
+    Zijie Ling et al., IEEE Robotics and Automation Letters Sept. 2025
+
+  - [SWAGSplatting: Semantic-guided Water-scene Augmented Gaussian Splatting](https://arxiv.org/abs/2509.00800) <br/>
+    Zhuodong Jiang et al., arxiv Aug.2025
+    
+  - [RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction](https://theflash987.github.io/RUSplatting.page/) <br/>
+    Zhuodong Jiang et al., BMVC Aug. 2025
+
+  - [SeaSplat: Representing Underwater Scenes with 3D Gaussian Splatting and a Physically Grounded Image Formation Model](https://seasplat.github.io/) <br/>
+    Daniel Yang et al., ICRA Jun. 2025
+    
+  - [WaterSplatting Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting](https://water-splatting.github.io) <br/>
+     Huapeng Li et al., 3DV May 2025
 
   - [Z-Splat: Z-Axis Gaussian Splatting for Camera-Sonar Fusion](https://arxiv.org/abs/2404.04687) | [github](https://github.com/QuintonQu/gaussian-splatting-with-depth/tree/gaussian-splatting-with-depth-FLS-2) <br/>
-      Ziyuan Qu et al., arXiv
+      Ziyuan Qu et al., arXiv Jul. 2024
     
 </details>
 
