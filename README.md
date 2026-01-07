@@ -1,4 +1,4 @@
-# awesome-NeRFs-3DGS
+# Awesome NeRFs and 3DGS in Robotics and Underwater
 A list of resources to start working with Neural Radiance Fields (NeRFs) and 3D Gaussian Splatting (3DGS). </br>
 From foundations to novelty, tailored for Robotics applications and underwater domain. </br>
 inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
