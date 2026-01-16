@@ -28,10 +28,17 @@ Basic theory to understand Volumetric Rendering techniques.
 
 Resources to start understanding and working with NeRFs.
 
-### Papers
+### :page_facing_up: Papers
+
+**Vanilla Method**
 
 [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf) <br/>
 Mildenhall et al., ECCV 2020
+
+<details open>
+<summary>Beyond Vanilla</summary>
+  
+</details>
 
 <details open>
 <summary>Underwater NeRFs</summary>
@@ -47,11 +54,6 @@ Mildenhall et al., ECCV 2020
 
   - [Neural Implicit Surface Reconstruction using Imaging Sonar](https://arxiv.org/abs/2209.08221) | [github](https://github.com/rpl-cmu/neusis) <br/>
     Mohamad Qadri et al., arxiv Sep. 2022
-</details>
-
-<details open>
-<summary>Improvements</summary>
-  
 </details>
 
 <details open>
@@ -72,25 +74,42 @@ Mildenhall et al., ECCV 2020
 <summary>Semantic</summary>
 
 
-- [SNI-SLAM: Semantic Neural Implicit SLAM]https://arxiv.org/abs/2311.11016) | [github](https://github.com/IRMVLab/SNI-SLAM) <br/>
+- [SNI-SLAM: Semantic Neural Implicit SLAM](https://arxiv.org/abs/2311.11016) | [github](https://github.com/IRMVLab/SNI-SLAM) <br/>
   Siting Zhu et al., arXiv Mar. 2024
   
 </details>
 
-### Books' Chapters
+### :books: Books' Chapters
 
-### Blog Posts 
+- [Foundations of Computer Vision, Chapter 1: The Challenge of Vision](https://visionbook.mit.edu/taxonomy.html) <br/>
+  Antonio Torralba et al.,MIT Press, 2024
+  
+- [Foundations of Computer Vision, Chapter 45: Radiance Fields](https://visionbook.mit.edu/nerf.html) <br/>
+  Antonio Torralba et al.,MIT Press, 2024
 
-### Videos
+- [SLAM Handbook, Chapter 14: Map Representations with Differentiable Volume Rendering](http://asrl.utias.utoronto.ca/~tdb/slam/) <br/>
+  Hidenobu Matsuki and Andrew J. Davison, 2026
+
+### :globe_with_meridians: Blog Posts 
+
+### :movie_camera: Videos
 
 
 ## 3D Gaussian Splatting
 
 Resources to start understanding and working with 3DGS.
 
-### Papers 
+### :page_facing_up: Papers 
+
+**Vanilla Method**
+
 [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) <br/>
 Kerbl et al., ACM Transactions on Graphics 2023
+
+<details open>
+<summary>Beyond Vanilla</summary>
+  
+</details>
 
 <details open>
 <summary>Underwater 3DGS</summary>
@@ -119,11 +138,6 @@ Kerbl et al., ACM Transactions on Graphics 2023
 </details>
 
 <details open>
-<summary>Improvements</summary>
-  
-</details>
-
-<details open>
 <summary>Multi-Modal</summary>
 
 </details>
@@ -147,14 +161,23 @@ Kerbl et al., ACM Transactions on Graphics 2023
 
 </details>
 
-### Books' Chapters
+### :books: Books' Chapters
 
-### Blog Posts 
+- [Foundations of Computer Vision, Chapter 1: The Challenge of Vision](https://visionbook.mit.edu/taxonomy.html) <br/>
+  Antonio Torralba et al.,MIT Press, 2024
+  
+- [Foundations of Computer Vision, Chapter 45: Radiance Fields](https://visionbook.mit.edu/nerf.html) <br/>
+  Antonio Torralba et al.,MIT Press, 2024
 
-### Videos
+- [SLAM Handbook, Chapter 14: Map Representations with Differentiable Volume Rendering](http://asrl.utias.utoronto.ca/~tdb/slam/) <br/>
+  Hidenobu Matsuki and Andrew J. Davison, 2026
+  
+### :globe_with_meridians: Blog Posts 
+
+### :movie_camera: Videos
 
 ## Tools
-
+### :computer: Software Tools and Frameworks 
 Usefull software tools and code implementation to work with NeRFs and 3DGS.
 
 - **colmap**<br/>
