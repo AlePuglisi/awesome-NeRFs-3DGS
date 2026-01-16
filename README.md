@@ -62,11 +62,19 @@ Mildenhall et al., ECCV 2020
 <details open>
 <summary>SLAM</summary>
 
+
+- [NICE-SLAM: Neural Implicit Scalable Encoding for SLAM](https://pengsongyou.github.io/nice-slam) <br/>
+  Zihan Zhu et al., arXiv Apr. 2022
+  
 </details>
 
 <details open>
 <summary>Semantic</summary>
 
+
+- [SNI-SLAM: Semantic Neural Implicit SLAM]https://arxiv.org/abs/2311.11016) | [github](https://github.com/IRMVLab/SNI-SLAM) <br/>
+  Siting Zhu et al., arXiv Mar. 2024
+  
 </details>
 
 ### Books' Chapters
@@ -122,11 +130,20 @@ Kerbl et al., ACM Transactions on Graphics 2023
   
 <details open>
 <summary>SLAM</summary>
+  
+- [Gaussian Splatting SLAM](https://rmurai.co.uk/projects/GaussianSplattingSLAM) <br/>
+  Hidenobu Matsuki et al., arXiv Apr. 2024
 
+  
 </details>
 
 <details open>
 <summary>Semantic</summary>
+  
+- [GSFF-SLAM: 3D semantic Gaussian splatting SLAM via feature field](https://www.sciencedirect.com/science/article/abs/pii/S0957417425032166) <br/>
+  Zuxing Lu et al., Expert Systems with Applications, May 2025
+  
+
 
 </details>
 
